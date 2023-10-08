@@ -22,13 +22,10 @@
  
   meu maior sonho é cursa faculdade "Ciencia da Computação ou Analise de sistema e desenvolvimento" 
   
-  mas eu sempre busquei ler e entender cada linha e resultado criado pelo codigo
-  
-  gerado
-  
-  sou apaixonado por informatica, meu intuito é deixar 'algo' para alguem tentar fazer igual ou melhor
+   
+  sou 😍 por informatica 💻, meu intuito é deixar 'algo' para alguem tentar fazer igual ou melhor
 
-  sempre um desafio tentar coisas novas ! :D
+  sempre um desafio tentar coisas novas ! 🌀
   <br/>
 
 <div> 
