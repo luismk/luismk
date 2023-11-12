@@ -19,9 +19,7 @@
  me chamo Luis, tenho 27 anos, sou apaixonado por com computadores e internet desde meus 14 anos de idade
  
   Produzo conteudo de jogos, mas também disponibilizo meu tempo em aprender coisas novas no contidiano 
- 
-  meu maior sonho é cursa faculdade "Ciencia da Computação ou Analise de sistema e desenvolvimento" 
-  
+   
    
   sou 😍 por informatica 💻, meu intuito é deixar 'algo' para alguem tentar fazer igual ou melhor
 
