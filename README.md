@@ -16,9 +16,7 @@
 
   <br/>
   
- me chamo Luis, tenho 27 anos, sou apaixonado por com computadores e internet desde meus 14 anos de idade
- 
-  Produzo conteudo de jogos, mas também disponibilizo meu tempo em aprender coisas novas no contidiano 
+ me chamo Luis, tenho 27 anos.
    
    
   sou 😍 por informatica 💻, meu intuito é deixar 'algo' para alguem tentar fazer igual ou melhor
