@@ -1,4 +1,4 @@
-## Olá, eu sou o Luis!
+## Hi, my name is Luiz!
 
 <div align="center">
   <a href="https://github.com/luismk">
@@ -18,24 +18,20 @@
 
 <br/>
 
-### Sobre mim
+### About My
+My name is **Luis**, I'm **27 years old**, and I'm passionate about technology.
 
-Me chamo **Luis**, tenho **27 anos** e sou apaixonado por tecnologia.  
-Adoro encarar **desafios** e estou sempre buscando aprender algo novo.
+I love taking on **challenges** and I'm always looking to learn something new.
 
-Gosto de deixar meu trabalho como referência — seja para inspirar, servir de base ou para alguém fazer ainda melhor.  
-Nada como ver uma boa ideia evoluindo!
+I like to leave my work as a reference—whether to inspire, serve as a foundation, or to help someone else do even better.
+
+There's nothing like seeing a good idea evolve!
 
 ---
 
-### Onde me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- [Portfólio / Blog](https://www.seusite.com)
-- [Twitter / X](https://twitter.com/seu-usuario)
-- [YouTube](https://youtube.com/seucanal)
-- [Email](mailto:seu@email.com)
-
+### Where to find me
+ 
+- [YouTube](https://youtube.com/@devluismk) 
 ---
 
 <div>
