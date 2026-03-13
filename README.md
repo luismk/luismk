@@ -19,7 +19,7 @@
 <br/>
 
 ### About My
-My name is **Luis**, I'm **27 years old**, and I'm passionate about technology.
+My name is **Luiz**, I'm **27 years old**, and I'm passionate about technology.
 
 I love taking on **challenges** and I'm always looking to learn something new.
 
