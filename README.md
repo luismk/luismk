@@ -26,6 +26,52 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📦 PangYa Suite Tools</h3>
+      <p><strong>Advanced reverse engineering and file modifier suite</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge&logoColor=white"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Access-Public%20⭐-3b82f6?style=for-the-badge&logoColor=white"/>
+      </p>
+      <p>A complete .NET 10 solution for asynchronous handling of .PAK files (XTEA), multi-client structural synchronization, activity auditing logs, and structured .IFF table editing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_10.0-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C_Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WinForms-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+        <img src="https://img.shields.io/badge/XTEA_Crypto-FF6F00?style=flat-square&logo=lock&logoColor=white"/>
+      </p>
+      <p><em>📦 <a href="https://github.com/luismk/PangYa-Suite-Tools">View Open Source Repository</a></em></p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌐 PangYa Server Community</h3>
+      <p><strong>Open-source core architecture framework</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-In%20Dev-orange?style=for-the-badge&logoColor=white"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Access-Public%20⭐-3b82f6?style=for-the-badge&logoColor=white"/>
+      </p>
+      <p>An ecosystem and structured codebase designed for emulation, network packet analysis, and collaborative tools for server infrastructures based on PangYa.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C_Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Networking-00A8E8?style=flat-square&logo=wireshark&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Community-111111?style=flat-square&logo=github&logoColor=white"/>
+      </p>
+      <p><em>🌐 <a href="https://github.com/luismk/Pangya-Server-Community">View Open Source Repository</a></em></p>
+    </td>
+  </tr>
+</table>
+
+</div>
+---
+
 ## 👤 About Me
 
 <img align="right" width="32%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF"/>
