@@ -7,9 +7,8 @@
 
 <!-- Badges & Socials -->
 [![YouTube](https://img.shields.io/badge/📺_@devluismk-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@devluismk)
-&nbsp;
-![Views](https://komarev.com/ghpvc/?username=luismk&style=for-the-badge&color=7C3AED&label=Views)
-
+&nbsp; 
+![Views](https://mojo-count.jammeryoung.workers.dev/luismk/views?style=for-the-badge&color=7C3AED&label=Views)
 <br/><br/>
 
 <!-- Tech Stack Icons Grid -->
