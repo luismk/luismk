@@ -71,6 +71,18 @@
 
 </div>
 
+---
+
+## 📺 Latest YouTube Video
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Rjiugmjfj8k" target="_blank">
+    <img src="https://img.youtube.com/vi/Rjiugmjfj8k/maxresdefault.jpg" alt="Latest YouTube Video" width="60%" />
+  </a>
+</div>
+
+---
+
 ## 👤 About Me
 
 <img align="right" width="32%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF"/>
