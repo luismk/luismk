@@ -77,7 +77,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=Rjiugmjfj8k" target="_blank">
-    <img src="https://img.youtube.com/vi/Rjiugmjfj8k/maxresdefault.jpg" alt="Latest YouTube Video" width="60%" />
+    <img src="https://img.youtube.com/vi/Rjiugmjfj8k/hqdefault.jpg" alt="Latest YouTube Video" width="60%" />
   </a>
 </div>
 
