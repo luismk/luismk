@@ -9,6 +9,13 @@
 [![YouTube](https://img.shields.io/badge/📺_@devluismk-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@devluismk)
 &nbsp; 
 ![Views](https://mojo-count.jammeryoung.workers.dev/luismk/views?style=for-the-badge&color=7C3AED&label=Views)
+
+<br/>
+
+<!-- Contato / Redes -->
+<a href="https://linkedin.com/in/luismk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://discord.gg/DEwj7DnBHb" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+
 <br/><br/>
 
 <!-- Tech Stack Icons Grid -->
@@ -78,6 +85,15 @@
   <a href="https://www.youtube.com/watch?v=Rjiugmjfj8k" target="_blank">
     <img src="https://img.youtube.com/vi/Rjiugmjfj8k/hqdefault.jpg" alt="Latest YouTube Video" width="60%" />
   </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luismk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="Top Langs" />
 </div>
 
 ---
